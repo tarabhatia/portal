@@ -128,8 +128,8 @@ label {
 .panel-login>.panel-heading .login:hover {
   text-align: center;
   padding: 20px 30px;
-  background: #fff;
-  color: #404040;
+  background: #404040;
+  color: #fff;
   border-bottom-left-radius: 5px;
   transition: background .50s ease-in-out;
   -moz-transition: background .50s ease-in-out;
@@ -196,7 +196,7 @@ label {
   transition: background .50s ease-in-out;
   -moz-transition: background .50s ease-in-out;
   -webkit-transition: background .50s ease-in-out;
-  color: #fff;
+  color: #404040;
   background-color: #2D3B55;
 }
 .forgot-password {
