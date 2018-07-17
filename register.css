@@ -1,9 +1,10 @@
+/*CSS*/
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,700,500);
 
 body {
   padding-top: 90px;
   background:#FFF;
-  color:#31708f;
+  color:#FFF;
   font-family: 'Roboto', sans-serif;
   font-weight:100;
 }
@@ -106,7 +107,7 @@ label {
 .panel-login .form-group {
   padding: 0 30px;
 }
-.panel-login>.panel-heading .register {
+.panel-login>.panel-heading .login {
   text-align: center;
   background: #404040;
   padding: 20px 30px;
@@ -115,21 +116,21 @@ label {
 
   /* padding-right: 5px solid white; */
 }
-.panel-login>.panel-heading .login {
+.panel-login>.panel-heading .register {
   text-align: center;
   padding: 20px 30px;
-  background: #404040;
-  border-bottom-left-radius: 5px;
+  background: #fff;
+  border-bottom-right-radius: 5px;
   -webkit-transition: background .50s ease-out;
   /* padding-left: 20px solid white; */
 }
 
-.panel-login>.panel-heading .login:hover {
+.panel-login>.panel-heading .register:hover {
   text-align: center;
   padding: 20px 30px;
-  background: #fff;
-  color: #404040;
-  border-bottom-left-radius: 5px;
+  background: #404040;
+  color: #fff;
+  border-bottom-right-radius: 5px;
   transition: background .50s ease-in-out;
   -moz-transition: background .50s ease-in-out;
   -webkit-transition: background .50s ease-in-out;
@@ -146,7 +147,7 @@ label {
   transition: all 0.1s linear;
 }
 .panel-login>.panel-heading a#register-form-link {
-  color: #fff;
+  color: #404040;
   width: 100%;
   text-align: right;
 }
@@ -180,7 +181,7 @@ label {
   background-color: #E8E9EC;
   outline: none;
   color: #2D3B55;
-  -webkit-transition: background .50s ease-in;
+  -webkit-transition: background .50s ease-out;
   font-size: 14px;
   height: auto;
   font-weight: normal;
@@ -195,7 +196,7 @@ label {
   transition: background .50s ease-in-out;
   -moz-transition: background .50s ease-in-out;
   -webkit-transition: background .50s ease-in-out;
-  color: #404040;
+  color: #fff;
   background-color: #2D3B55;
 }
 .forgot-password {
