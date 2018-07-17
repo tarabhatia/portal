@@ -180,7 +180,7 @@ label {
   background-color: #E8E9EC;
   outline: none;
   color: #2D3B55;
-  -webkit-transition: background .50s ease-out;
+  -webkit-transition: background .50s ease-in;
   font-size: 14px;
   height: auto;
   font-weight: normal;
