@@ -109,7 +109,7 @@ label {
 }
 .panel-login>.panel-heading .login {
   text-align: center;
-  background: #fff;
+  background: #404040;
   padding: 20px 30px;
   border-bottom-left-radius: 5px;
   -webkit-transition: background .50s ease-out;
@@ -119,7 +119,7 @@ label {
 .panel-login>.panel-heading .register {
   text-align: center;
   padding: 20px 30px;
-  background: #404040;
+  background: #fff;
   border-bottom-right-radius: 5px;
   -webkit-transition: background .50s ease-out;
   /* padding-left: 20px solid white; */
