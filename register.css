@@ -223,6 +223,6 @@ label {
 }
 .btn-register:hover,
 .btn-register:focus {
-  color: #404040;
+  color: #fff;
   background-color: #808080;
 }
