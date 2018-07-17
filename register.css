@@ -119,8 +119,8 @@ label {
 .panel-login>.panel-heading .login {
   text-align: center;
   padding: 20px 30px;
-  background: #fff;
-  border-bottom-right-radius: 5px;
+  background: #404040;
+  border-bottom-left-radius: 5px;
   -webkit-transition: background .50s ease-out;
   /* padding-left: 20px solid white; */
 }
@@ -128,9 +128,9 @@ label {
 .panel-login>.panel-heading .login:hover {
   text-align: center;
   padding: 20px 30px;
-  background: #404040;
-  color: #fff;
-  border-bottom-right-radius: 5px;
+  background: #fff;
+  color: #404040;
+  border-bottom-left-radius: 5px;
   transition: background .50s ease-in-out;
   -moz-transition: background .50s ease-in-out;
   -webkit-transition: background .50s ease-in-out;
@@ -147,7 +147,7 @@ label {
   transition: all 0.1s linear;
 }
 .panel-login>.panel-heading a#register-form-link {
-  color: #404040;
+  color: #fff;
   width: 100%;
   text-align: right;
 }
