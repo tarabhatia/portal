@@ -107,7 +107,7 @@ label {
 .panel-login .form-group {
   padding: 0 30px;
 }
-.panel-login>.panel-heading .login {
+.panel-login>.panel-heading .register {
   text-align: center;
   background: #404040;
   padding: 20px 30px;
@@ -116,7 +116,7 @@ label {
 
   /* padding-right: 5px solid white; */
 }
-.panel-login>.panel-heading .register {
+.panel-login>.panel-heading .login {
   text-align: center;
   padding: 20px 30px;
   background: #fff;
@@ -125,7 +125,7 @@ label {
   /* padding-left: 20px solid white; */
 }
 
-.panel-login>.panel-heading .register:hover {
+.panel-login>.panel-heading .login:hover {
   text-align: center;
   padding: 20px 30px;
   background: #404040;
