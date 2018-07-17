@@ -195,7 +195,7 @@ label {
   transition: background .50s ease-in-out;
   -moz-transition: background .50s ease-in-out;
   -webkit-transition: background .50s ease-in-out;
-  color: #fff;
+  color: #404040;
   background-color: #2D3B55;
 }
 .forgot-password {
