@@ -4,7 +4,7 @@
 body {
   padding-top: 90px;
   background:#FFF;
-  color:##31708f;
+  color:#FFF;
   font-family: 'Roboto', sans-serif;
   font-weight:100;
 }
@@ -139,7 +139,7 @@ label {
 
 .panel-login>.panel-heading a{
   text-decoration: none;
-  color: #404040;
+  color: #fff;
   font-weight: 300;
   font-size: 16px;
   -webkit-transition: all 0.1s linear;
@@ -227,4 +227,3 @@ label {
   color: #fff;
   background-color: #808080;
 }
- 
